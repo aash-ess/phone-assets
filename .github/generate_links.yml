@@ -1,1 +1,18 @@
-
+name: Generate Image Links
+on: [push]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: List files
+        run: |
+          echo "LIST OF URLS" > links.txt
+          find . -type f -not -path '*/.*' -not -name "*.yml" -not -name "links.txt" | sed 's|^\./|https://cdn.jsdelivr.net/gh/aash-ess/phone-assets/|' >> links.txt
+      - name: Commit links
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add links.txt
+          git commit -m "Update links.txt" || exit 0
+          git push
