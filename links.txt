@@ -2,6 +2,11 @@
 https://cdn.jsdelivr.net/gh/aash-ess/phone-assets/assets/wallpapers/characters/cass/cass_wallpaper_home_0.2.jpg
 https://cdn.jsdelivr.net/gh/aash-ess/phone-assets/assets/wallpapers/characters/cass/lock_wallpaper_cass_0.1.jpg
 https://cdn.jsdelivr.net/gh/aash-ess/phone-assets/assets/wallpapers/characters/cass/home_wallpaper_cass_0.1.jpg
+https://cdn.jsdelivr.net/gh/aash-ess/phone-assets/assets/ui/apps/frame/icons/AudioRecorder-Base-Icon.png
+https://cdn.jsdelivr.net/gh/aash-ess/phone-assets/assets/ui/apps/frame/icons/Calendar-Base-Icon.png
+https://cdn.jsdelivr.net/gh/aash-ess/phone-assets/assets/ui/apps/frame/icons/Camera-Base-Icon.png
+https://cdn.jsdelivr.net/gh/aash-ess/phone-assets/assets/ui/apps/frame/icons/Gallery-Base-Icon.png
+https://cdn.jsdelivr.net/gh/aash-ess/phone-assets/assets/ui/apps/frame/icons/Notes-Base-Icon.png
 https://cdn.jsdelivr.net/gh/aash-ess/phone-assets/assets/ui/system/statusbar/signal_default.png
 https://cdn.jsdelivr.net/gh/aash-ess/phone-assets/assets/ui/system/statusbar/batter_default.png
 https://cdn.jsdelivr.net/gh/aash-ess/phone-assets/assets/ui/system/statusbar/wifi_default.png
